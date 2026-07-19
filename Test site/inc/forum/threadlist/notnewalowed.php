@@ -1,1 +1,0 @@
-<small><?=$vocab['noNwAllow']?>
